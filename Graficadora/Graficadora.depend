@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714190666 source:c:\users\joses\onedrive\documentos\progra virtual\graficadora\main.cpp
+	<conio.h>
+	<Windows.h>
+	<iostream>
+	<string>
+	<unordered_map>
+
